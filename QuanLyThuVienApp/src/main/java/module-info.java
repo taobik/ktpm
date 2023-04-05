@@ -7,6 +7,5 @@ module com.slh.quanlythuvienapp {
     exports com.slh.quanlythuvienapp;
     exports com.slh.services;
     exports com.slh.pojo;
-  
     
 }

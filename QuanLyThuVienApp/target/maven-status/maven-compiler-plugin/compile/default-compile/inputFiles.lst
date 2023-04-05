@@ -1,8 +1,8 @@
-D:\QuanLyThuVienApp\src\main\java\com\slh\quanlythuvienapp\PrimaryController.java
-D:\QuanLyThuVienApp\src\main\java\com\slh\quanlythuvienapp\App.java
-D:\QuanLyThuVienApp\src\main\java\module-info.java
-D:\QuanLyThuVienApp\src\main\java\com\slh\services\JdbcUtils.java
-D:\QuanLyThuVienApp\src\main\java\com\slh\pojo\DocGia.java
-D:\QuanLyThuVienApp\src\main\java\com\slh\quanlythuvienapp\SecondaryController.java
-D:\QuanLyThuVienApp\src\main\java\com\slh\services\DocGiaService.java
-D:\QuanLyThuVienApp\src\main\java\com\slh\utils\MessageBox.java
+D:\it\java\KTPM\QuanLyThuVienApp\QuanLyThuVienApp\src\main\java\com\slh\pojo\MuonTra.java
+D:\it\java\KTPM\QuanLyThuVienApp\QuanLyThuVienApp\src\main\java\com\slh\services\MuonTraService.java
+D:\it\java\KTPM\QuanLyThuVienApp\QuanLyThuVienApp\src\main\java\com\slh\quanlythuvienapp\App.java
+D:\it\java\KTPM\QuanLyThuVienApp\QuanLyThuVienApp\src\main\java\com\slh\utils\MessageBox.java
+D:\it\java\KTPM\QuanLyThuVienApp\QuanLyThuVienApp\src\main\java\module-info.java
+D:\it\java\KTPM\QuanLyThuVienApp\QuanLyThuVienApp\src\main\java\com\slh\quanlythuvienapp\PrimaryController.java
+D:\it\java\KTPM\QuanLyThuVienApp\QuanLyThuVienApp\src\main\java\com\slh\services\JdbcUtils.java
+D:\it\java\KTPM\QuanLyThuVienApp\QuanLyThuVienApp\src\main\java\com\slh\quanlythuvienapp\SecondaryController.java

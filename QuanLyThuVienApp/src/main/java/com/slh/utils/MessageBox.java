@@ -8,7 +8,7 @@ import javafx.scene.control.Alert;
 
 /**
  *
- * @author PC
+ * @author Admin
  */
 public class MessageBox {
     public static Alert getBox(String title, String content, Alert.AlertType type) {

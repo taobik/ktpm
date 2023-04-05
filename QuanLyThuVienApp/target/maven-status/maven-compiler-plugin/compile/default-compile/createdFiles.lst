@@ -1,3 +1,7 @@
 com\slh\quanlythuvienapp\SecondaryController.class
+com\slh\pojo\MuonTra.class
+module-info.class
 com\slh\quanlythuvienapp\PrimaryController.class
 com\slh\quanlythuvienapp\App.class
+com\slh\utils\MessageBox.class
+com\slh\services\JdbcUtils.class
